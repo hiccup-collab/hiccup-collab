@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiccup-collab
 - 👀 I’m interested in Learning new technologies
-- 🌱 I’m currently learning Kafka
+- 🌱 I’m currently learning Spring Technologies
 - 💞️ I’m looking to collaborate on Java, Microservices, Kafka,  Working with database operations
 - 📫 How to reach me ...
 
